@@ -1,15 +1,5 @@
-NME Optimizing Functions
+Optimizing Functions
 ===========================
-
-## GIT
-
-*see [nme_plugin_optimizing-functions](http://git.maggie.netmediaeurope.com/nme_plugin_optimizing-functions)*
-
- - **master:** the live plugin
-
-
-
------
 
 ## Description
 
@@ -32,6 +22,6 @@ You can :
 
 ## Deployment
 
-1. Upload `nme-optimizing-functions` directory to the `/wp-content/plugins/` directory
+1. Upload `optimizing-functions` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Activate the options you need in the admin page of the plugin (NME Optimizing Functions)

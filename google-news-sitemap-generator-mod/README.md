@@ -1,15 +1,5 @@
-NME Analytics WebTracking
+Analytics WebTracking
 ===========================
-
-## GIT
-
-*see [nme_plugin_analytics-webtracking](http://git.maggie.netmediaeurope.com/nme_plugin_analytics-webtracking)*
-
- - **master:** the live plugin
-
-
-
------
 
 ## Description
 
@@ -37,6 +27,6 @@ Enable it and set ID and Domain Name of the analytics to integrate the analytics
 
 ## Deployment
 
-1. Upload `nme-analytics-webtracking` directory to the `/wp-content/plugins/` directory
+1. Upload `analytics-webtracking` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Activate the tracking script you need in the admin page of the plugin (Analytics WebTracking)

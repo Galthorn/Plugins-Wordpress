@@ -1,16 +1,6 @@
 NME SEO Functions
 ===========================
 
-## GIT
-
-*see [nme_plugin_seo-functions](http://git.maggie.netmediaeurope.com/nme_plugin_seo-functions)*
-
- - **master:** the live plugin
-
-
-
------
-
 ## Description
 
 This plugin gather together all the functions (initially in function.php) which are dedicated to SEO
@@ -32,6 +22,6 @@ You can enable opengraph and opentweet in Yoast, go to "Social Network" submenu 
 
 ## Deployment
 
-1. Upload `nme-seo-functions` directory to the `/wp-content/plugins/` directory
+1. Upload `seo-functions` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Activate the options you need in the admin page of the plugin (NME SEO Functions)
